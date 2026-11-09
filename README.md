@@ -1,4 +1,4 @@
-# Computer-Programming-1-Project
+# simple interactive game project
 a beginner-friendly Java project developed as part of the Programming 1 course. It combines two basic operations: printing numbers with increments of 5 and playing a number-guessing game using a randomly generated number.
 
 The project demonstrates how basic Java concepts, such as methods, loops, conditional statements, user input, and random number generation, can be combined to create an interactive console-based application.
